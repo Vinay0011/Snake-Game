@@ -1,0 +1,20 @@
+*{
+    margin:0;
+    margin-top:10px;
+    padding:0;
+    box-sizing: border-box;
+    text-transform: capitalize;
+    font-size:1.5rem;
+}
+
+body{
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    justify-content: center;
+}
+
+#game{
+    background-color: grey;
+    border:2px solid red;
+}
